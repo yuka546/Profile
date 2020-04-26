@@ -1,0 +1,65 @@
+.all{
+  text-align: left;
+  padding: 50px 100px 50px 200px;
+}
+
+body{
+  background-image: url(https://sozai-good.com/download?id=4285&type=1&subnumber=0&extention=jpg);
+  background-size: cover;
+}
+
+.name{
+  float: right;
+}
+
+.name h1{
+  font-size: 60px;
+  font-weight: bold;
+  font-family: sans-serif;
+  color: black;
+  border-bottom: 5px solid rgba(255, 0, 0, 0.5);
+  padding-right: 80px;
+}
+
+.main{
+  float: right;
+}
+
+.introduce{
+  font-size: 20px;
+}
+
+.part2{
+  text-align: left;
+  padding: 10px 100px 100px 100px;
+}
+
+.image{
+  width: 600px;
+  padding: 10px 50px 50px 50px;
+}
+
+.photo{
+  width: 600px;
+  float: right;
+  padding: 30px;
+}
+
+
+.icon{
+  color: black;
+  font-size: 30px;
+  text-decoration: none;
+
+}
+
+footer p{
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: fantasy;
+  letter-spacing: 5px;
+  border-top: 5px solid rgba(255, 0, 0, 0.5);
+  padding: 20px;
+  text-align: center;
+}
