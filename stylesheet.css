@@ -1,3 +1,10 @@
+.container{
+  max-width: 1170px;
+  width: 100%;
+  
+}
+
+
 .all{
   text-align: left;
   padding: 50px 100px 50px 200px;
