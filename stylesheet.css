@@ -1,71 +1,90 @@
 .container{
-  max-width: 1200px;
   width: 100%;
 }
 
-
-.all{
-  text-align: left;
-  padding: 50px 100px 50px 200px;
+header{
+  background-color: silver;
+  height: 200px;
 }
-
-body{
-  background-image: url(https://sozai-good.com/download?id=4285&type=1&subnumber=0&extention=jpg);
-  background-size: cover;
-}
-
-.name{
+.title{
   float: right;
 }
 
-.name h1{
-  font-size: 60px;
-  font-weight: bold;
-  font-family: sans-serif;
-  color: black;
-  border-bottom: 5px solid rgba(255, 0, 0, 0.5);
-  padding-right: 80px;
-}
-
-.main{
-  float: right;
+.title h1{
+  font-size: 50px;
+  border-bottom: 5px solid rgba(0, 0, 0);
+  padding-right: 100px;
+  padding-top: 50px;
 }
 
 .introduce{
-  font-size: 20px;
+  height: 500px;
+  padding-top: 1px;
+  background-color: white;
+  padding-bottom: 10px;
 }
 
-.part2{
-  text-align: left;
-  padding: 10px 100px 100px 100px;
-}
-
-.image{
-  width: 600px;
-  padding: 10px 50px 50px 50px;
-}
-
-.photo{
-  width: 600px;
+.introduce p{
+  font-size: 25px;
   float: right;
+  padding: 20px;
+  color: dimgray;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.image1{
+  width: 45%;
+  float: left;
   padding: 30px;
 }
 
+.introduce2{
+  height: 350px;
+  padding-top: 25px;
+}
 
-.icon{
-  color: black;
-  font-size: 30px;
-  text-decoration: none;
+.introduce2 p{
+  font-size: 25px;
+  float: left;
+  padding: 5px;
+  color: white;
+  font-weight: bold;
+  font-family: sans-serif;
+}
 
+.image2{
+  width: 45%;
+  float: right;
+  padding: 5px;
+}
+
+footer{
+  height: 200px;
+  background-color: white;
 }
 
 footer p{
-  color: black;
   font-size: 30px;
+  font-family: sans-serif;
   font-weight: bold;
-  font-family: fantasy;
-  letter-spacing: 5px;
-  border-top: 5px solid rgba(255, 0, 0, 0.5);
-  padding: 20px;
+  margin-top: 200px;
   text-align: center;
+  padding-top: 80px;
+  color: black;
+}
+
+.under-line{
+  text-decoration: underline;
+  color: black;
+}
+
+footer a{
+  color: black;
+}
+
+
+
+body{
+  background-color: silver;
 }
