@@ -88,3 +88,7 @@ footer a{
 body{
   background-color: silver;
 }
+
+.clear{
+  clear: left;
+}
