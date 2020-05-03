@@ -58,6 +58,11 @@ header{
   padding: 55px;
 }
 
+
+.details{
+  width: 1200px;
+}
+
 footer{
   height: 150px;
   background-color: white;
