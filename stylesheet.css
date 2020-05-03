@@ -1,5 +1,6 @@
 .container{
   width: 100%;
+  background-color: siver;
 }
 
 header{
@@ -19,48 +20,46 @@ header{
 
 .introduce{
   height: 500px;
-  padding-top: 1px;
   background-color: white;
-  padding-bottom: 10px;
 }
 
 .introduce p{
   font-size: 25px;
   float: right;
-  padding: 20px;
+  padding: 50px;
   color: dimgray;
   font-weight: bold;
   font-family: sans-serif;
 }
 
 .image1{
-  width: 45%;
+  width: 35%;
   float: left;
-  padding: 30px;
+  padding: 75px;
 }
 
 .introduce2{
-  height: 350px;
-  padding-top: 25px;
+  height: 500px;
+  background-color: silver;
 }
 
 .introduce2 p{
   font-size: 25px;
   float: left;
-  padding: 5px;
+  padding: 50px;
   color: white;
   font-weight: bold;
   font-family: sans-serif;
 }
 
 .image2{
-  width: 45%;
+  width: 35%;
   float: right;
-  padding: 5px;
+  padding: 55px;
 }
 
 footer{
-  height: 200px;
+  height: 150px;
   background-color: white;
 }
 
@@ -68,9 +67,8 @@ footer p{
   font-size: 30px;
   font-family: sans-serif;
   font-weight: bold;
-  margin-top: 200px;
   text-align: center;
-  padding-top: 80px;
+  padding-top: 45px;
   color: black;
 }
 
@@ -104,10 +102,6 @@ footer a:hover{
   text-decoration: none;
 }
 
-
-body{
-  background-color: silver;
-}
 
 .clear{
   clear: left;
