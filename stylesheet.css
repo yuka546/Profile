@@ -81,8 +81,28 @@ footer p{
 
 footer a{
   color: black;
+  transition: 0.5s;
 }
 
+footer a:hover{
+  cursor: pointer;
+  transform: translateY(-5px);
+}
+
+.twitter:hover{
+  color: blue;
+  text-decoration: none;
+}
+
+.insta:hover{
+  color: red;
+  text-decoration: none;
+}
+
+.facebook:hover{
+  color: navy;
+  text-decoration: none;
+}
 
 
 body{
