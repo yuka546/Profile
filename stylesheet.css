@@ -30,6 +30,7 @@ header{
   color: dimgray;
   font-weight: bold;
   font-family: sans-serif;
+  width: 50%;
 }
 
 .message1 p{
@@ -53,6 +54,7 @@ header{
   color: white;
   font-weight: bold;
   font-family: sans-serif;
+  width: 50%;
 }
 
 .message2 p{
