@@ -32,6 +32,10 @@ header{
   font-family: sans-serif;
 }
 
+.message1 p{
+  word-break: keep-all;
+}
+
 .image1{
   width: 35%;
   float: left;
@@ -49,6 +53,10 @@ header{
   color: white;
   font-weight: bold;
   font-family: sans-serif;
+}
+
+.message2 p{
+  word-break: keep-all;
 }
 
 .image2{
