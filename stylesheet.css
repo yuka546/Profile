@@ -1,12 +1,12 @@
-.container{
+html,body{
   width: 100%;
-  background-color: siver;
+  background-color: silver;
 }
 
 header{
-  background-color: silver;
   height: 200px;
 }
+
 .title{
   float: right;
 }
@@ -23,10 +23,10 @@ header{
   background-color: white;
 }
 
-.introduce p{
+.message1{
   font-size: 25px;
   float: right;
-  padding: 20px;
+  padding: 2%;
   color: dimgray;
   font-weight: bold;
   font-family: sans-serif;
@@ -35,18 +35,17 @@ header{
 .image1{
   width: 35%;
   float: left;
-  padding: 75px;
+  padding: 5%;
 }
 
 .introduce2{
   height: 500px;
-  background-color: silver;
 }
 
-.introduce2 p{
+.message2{
   font-size: 25px;
   float: left;
-  padding: 20px;
+  padding: 2%;
   color: white;
   font-weight: bold;
   font-family: sans-serif;
@@ -55,13 +54,9 @@ header{
 .image2{
   width: 35%;
   float: right;
-  padding: 55px;
+  padding: 5%;
 }
 
-
-.details{
-  width: 1200px;
-}
 
 footer{
   height: 150px;
@@ -73,7 +68,7 @@ footer p{
   font-family: sans-serif;
   font-weight: bold;
   text-align: center;
-  padding-top: 45px;
+  padding-top: 5%;
   color: black;
 }
 
