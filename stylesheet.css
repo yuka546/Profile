@@ -116,3 +116,60 @@ footer a:hover{
 .clear{
   clear: left;
 }
+
+@media(max-width: 1000px){
+  .message1{
+    width: 90%;
+    text-align: left;
+    font-size: 20px;
+  }
+
+  .introduce{
+    height: 100vh;
+  }
+
+  .image1{
+    width: 50vw;
+  }
+
+  .message2{
+    width: 90%;
+    text-align: left;
+    font-size: 20px;
+  }
+
+  .introduce2{
+    height: 100vh;
+  }
+
+  .image2{
+    width: 50vw;
+  }
+}
+
+@media(max-width: 670px){
+  html,body{
+    width: 100vw;
+  }
+
+  .image1{
+    width: 100vw;
+  }
+
+  .introduce{
+    height: 120vh;
+  }
+
+  .image2{
+    width: 100vw;
+  }
+
+  .introduce2{
+    height: 110vh;
+  }
+
+  footer{
+    font-size: 20px;
+    padding-top: 5%;
+  }
+}
