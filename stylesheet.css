@@ -19,7 +19,7 @@ header{
 }
 
 .introduce{
-  height: 500px;
+  height: 80vh;
   background-color: white;
 }
 
@@ -44,7 +44,7 @@ header{
 }
 
 .introduce2{
-  height: 500px;
+  height: 80vh;
 }
 
 .message2{
